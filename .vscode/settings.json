@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "yemekliste.h": "c",
+    "yemeklistesi.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
